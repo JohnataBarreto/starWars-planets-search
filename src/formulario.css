@@ -1,0 +1,9 @@
+input {
+  background-color: rgb(rgb(130, 233, 173), green, blue);
+  color: rgb(rgb(27, 41, 41), green, blue);
+  text-align: center;
+}
+
+fieldset {
+  display: flexbox;
+}

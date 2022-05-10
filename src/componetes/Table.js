@@ -49,7 +49,7 @@ function Table() {
             style={ {
               textAlign: 'center',
               width: '96%',
-              height: '500px',
+              height: '300px',
               overflow: 'scroll',
               alignItems: 'center',
               marginLeft: '2%',
